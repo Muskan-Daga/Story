@@ -3,3 +3,5 @@ sloth
 elephant
 donkey
 fish
+cat
+monkey
