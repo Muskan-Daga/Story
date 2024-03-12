@@ -1,0 +1,4 @@
+dog
+sloth
+elephant
+donkey
